@@ -1,0 +1,22 @@
+df[col_name].value_counts_____freq of each value in that column
+
+categorical numeric ordinal featrues
+
+.columns shows the names all the columns
+
+.dtypes shows the datatype of eacn colummn
+
+.sort_values use to bring all same dtypes together
+
+.isnull().sum().sort_values()  _______shw find how many null values in each column
+
+find percentage of null values
+
+depend larta hai dtaaset set pe categoric hoga ya nahi non object dtype
+
+find alternative methods for log transform to reduce skewness
+
+tip:separate objet and non object types to make it wasier to transform the data
+
+re read array slicing concepts
+
